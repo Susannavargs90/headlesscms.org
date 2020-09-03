@@ -1,17 +1,18 @@
 ---
-title: Quintype
-homepage: https://www.quintype.com/
+title: Bold CMS
+homepage: https://www.quintype.com/products/bold
 twitter: quintype_inc
 opensource: "No"
 typeofcms: "API Driven"
 supportedgenerators:
   - All
-description: Quintype is the new age, mobile first publishing platform for digital publishers seeking to amplify audiences & revenues. 
+description: Bold is a hosted, headless CMS SaaS application that empowers publishers to create, curate and distribute their content across modern devices and screens effortlessly through structured APIs using any technology stack. 
 ---
 ## Benefits of Quintype CMS
 
 + Publish Content with Ease 
 + Higher Engagement
++ Mobile CMS 
 + Responsive Front-end
 + Low Cost of Ownership
 + Secure Your Content
@@ -23,6 +24,7 @@ description: Quintype is the new age, mobile first publishing platform for digit
   * Image Optimization
   * Coherent Syndication
   * AI powered recommendation
+  * News Fact Check
 
 ## Distribution and SEO
 * Creating beautiful content experience is just the beginning. Deliver it to your intended audience with Quintype's syndication, social and SEO services
